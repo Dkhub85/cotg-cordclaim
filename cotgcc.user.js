@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         chat discord webhook
+// @name         cord claim on discord
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  chat discord webhook
+// @description  cord claim on discord
 // @author       Dhruv
 // @match        https://*.crownofthegods.com
 // @include      https://*.crownofthegods.com/?s=*
